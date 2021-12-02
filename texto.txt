@@ -1,5 +1,7 @@
 Este texto es un ejemplo de :
 
+Este texto ahora posee un titulo Acorde
+
 Encabezado:
         En este punto se debe rellenar el Encabezado
 
