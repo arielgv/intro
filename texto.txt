@@ -3,7 +3,9 @@ Este texto es un ejemplo de :
 Este texto ahora posee un titulo Acorde
 
 Encabezado:
-        En este punto se debe rellenar el Encabezado
+        Cuerpo desarrollado del encabezado del texto.
+        este trabajo se completa a traves de un branch nuevo. llamado encabezado.
+        
 
 Relleno :
         Alguien tiene que ocuparse del relleno.
