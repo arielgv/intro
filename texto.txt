@@ -1,0 +1,11 @@
+Este texto es un ejemplo de :
+
+Encabezado:
+        En este punto se debe rellenar el Encabezado
+
+Relleno :
+        Alguien tiene que ocuparse del relleno.
+
+
+Conclusion:
+        La ultima parte del trabajo.
