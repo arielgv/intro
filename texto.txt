@@ -11,8 +11,11 @@ Relleno :
         Este documento rellena por completo la parte del
         llenado del libro o texto que estamos haciendo, con 
         esto se completa casi todo su contenido .
-        esto se llamará quinta linea para crear conflicto
+        esta cuarta linea de relleno proviene de conclusion
 
 
 Conclusion:
-        La ultima parte del trabajo.
+        Este texto concluye todo el archivo, completando mediante
+        la funcion merge todo el contenido y fusionandolo de una manera 
+        que todo puede encaminarse.
+        pero asi tambien vamos a generar un conflicto en el relleno
