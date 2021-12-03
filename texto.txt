@@ -6,7 +6,9 @@ Encabezado:
         En este punto se debe rellenar el Encabezado
 
 Relleno :
-        Alguien tiene que ocuparse del relleno.
+        Este documento rellena por completo la parte del
+        llenado del libro o texto que estamos haciendo, con 
+        esto se completa casi todo su contenido .
 
 
 Conclusion:
