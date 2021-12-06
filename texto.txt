@@ -19,3 +19,7 @@ Conclusion:
         la funcion merge todo el contenido y fusionandolo de una manera 
         que todo puede encaminarse.
         pero asi tambien vamos a generar un conflicto en el relleno
+        
+        
+        
+        este texto estoy agregando a traves del aplicativo web
